@@ -1,3 +1,9 @@
+# data
+DTrans-MPrompt/Entity-Detection/dataset/pile_ner_train_conll.json
+DTrans-MPrompt/Entity-Detection/dataset/pile_ner_dev_conll.json
+DTrans-MPrompt/Entity-Detection/dataset/pile_ner_test_conll.json
+DTrans-MPrompt/Entity-Detection/dataset/pile_ner_train.json
+
 # Python
 __pycache__/
 *.py[cod]
